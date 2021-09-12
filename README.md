@@ -1,7 +1,8 @@
 ### Hey, I'm Joe - aka [JKofler93][website] 👋
+
 ## I'm a Full Stack Developer, and National Park Explorer!!
 
-- 🌱 I’m currently learning Redux and Typescript 
+- 🌱 I’m currently learning Redux, Typescript, and Go
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to my github
 - ⚡ Fun fact: Hitch Hikers Guide to the Galaxy mega fan
