@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer, and National Park Explorer!!
 
-- 🌱 I’m currently learning Redux, Typescript, Swift
+- 🌱 I’m currently learning Swift and TypeScript
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to my github
 - ⚡ Fun fact: Hitch Hikers Guide to the Galaxy mega fan
@@ -11,8 +11,10 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png" />][medium]
 
 <br />
+
 
 ### Languages and Tools:
 
@@ -32,3 +34,4 @@
 
 [website]: https://joekofler.com/
 [linkedin]: https://www.linkedin.com/in/joseph-kofler-8960a81b0/
+[medium]: https://koflerj93.medium.com/
