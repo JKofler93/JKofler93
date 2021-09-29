@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Swift and TypeScript
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to my github
-- ⚡ Fun fact: Hitch Hikers Guide to the Galaxy mega fan
+- ⚡ Fun fact: Currently watching Robert "Uncle Bob" Martin Clean Code: Fundamentals
 
 ### Connect with me:
 
