@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer, and National Park Explorer!!
 
-- 🌱 I’m currently learning Redux, Typescript, and Go
+- 🌱 I’m currently learning Redux, Typescript
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to my github
 - ⚡ Fun fact: Hitch Hikers Guide to the Galaxy mega fan
