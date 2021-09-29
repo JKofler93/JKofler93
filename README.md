@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer, and National Park Explorer!!
 
-- 🌱 I’m currently learning Redux, Typescript
+- 🌱 I’m currently learning Redux, Typescript, Swift
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to my github
 - ⚡ Fun fact: Hitch Hikers Guide to the Galaxy mega fan
@@ -11,7 +11,6 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Medium_glyph_svg-512.png" />][medium]
 
 <br />
 
