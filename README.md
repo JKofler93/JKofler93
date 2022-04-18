@@ -4,8 +4,7 @@
 
 - 🌱 I’m currently learning Swift and TypeScript
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to my github
-- ⚡ Fun fact: Currently watching Robert "Uncle Bob" Martin Clean Code: Fundamentals
+- 🥅 2022 Goals: Contribute more to my github
 
 ### Connect with me:
 
